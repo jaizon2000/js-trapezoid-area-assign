@@ -1,2 +1,2 @@
 # js-trapezoid-area-assign
-Calculate are of trapezoid
+Calculate area of trapezoid
